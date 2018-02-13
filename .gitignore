@@ -1,0 +1,8 @@
+*
+
+!.gitignore
+!dovecot-sql.conf
+!dovecot.conf
+!conf.d/*
+!conf.d/
+!passwd.example
